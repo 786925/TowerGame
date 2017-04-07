@@ -1,0 +1,6 @@
+
+
+class Boid extends GameObject{
+  
+  
+}
